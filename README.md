@@ -10,3 +10,4 @@ Gmail: camilo.velez4@udea.edu.co
 
 
 - Link repositorio: https://github.com/andresFelipeGiraldoYusti/Practica_1_ACL.git
+- Link video: https://drive.google.com/file/d/1ifo4MjNIYLHyR3fme6H3nS4BUwLlJto-/view?usp=sharing
